@@ -16,15 +16,10 @@ App low-code para identificar el país de origen de un vehículo según el códi
 
 ### 🛠️ Service Request Workflow (Power Apps + Power Automate)
 
-<p align="center">
-  <img src="Request%20Form.png" alt="Request Form App" width="420"/>
-</p>
+<p align="center"> <img src="Request%20Form.png" alt="Request Form App" width="400"/> &nbsp;&nbsp;&nbsp; <img src="Request%20Form%20Service%20Order.png" alt="Service Order App" width="400"/> </p>
 
-<p align="center">
-  <img src="Request%20Form%20Service%20Order.png" alt="Service Order App" width="420"/>
-</p>
-
-Aplicación de gestión de solicitudes de servicio y órdenes de trabajo. Integra formularios digitales con automatización de procesos en Power Automate.
+Aplicación empresarial desarrollada con Power Apps para gestionar solicitudes de servicio y órdenes de trabajo, integrando automatizaciones con Power Automate.
+Permite a los usuarios registrar, rastrear y procesar solicitudes desde un único punto de entrada digital.
 
 ---
 
